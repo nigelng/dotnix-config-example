@@ -1,0 +1,12 @@
+{
+  "description": "",
+  "computerName": "superspy",
+  "hostName": "00seven",
+  "screenshotFolder": "~/Downloads",
+  "homeManagerVersion": "23.05",
+  "fonts": [],
+  "trustedUsers": [],
+  "allowedUsers": [
+    "*"
+  ]
+}

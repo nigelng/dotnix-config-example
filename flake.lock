@@ -1,0 +1,24 @@
+{
+  "nodes": {
+    "mahConfig": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-FiwwYR9wJkk6esktrCWCGtSTaRexuEWo+k9BXqQ5F5Y=",
+        "path": "./config",
+        "type": "path"
+      },
+      "original": {
+        "path": "./config",
+        "type": "path"
+      }
+    },
+    "root": {
+      "inputs": {
+        "mahConfig": "mahConfig"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
